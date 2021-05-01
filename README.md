@@ -63,3 +63,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 # multi-auth-laravel
 # multi-auth-laravel
 # mult-auth-laravel-breeze-bootstrap
+# mult-auth-laravel-breeze-bootstrap
