@@ -1,5 +1,5 @@
 # Multi Authentication with breeze in laravel
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/77882366?v=4" width="400"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://avatars.githubusercontent.com/u/77882366?v=4" width="200"></a></p>
 
 ## About Project
 
